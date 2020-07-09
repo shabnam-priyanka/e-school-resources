@@ -18,10 +18,10 @@
 }
 
 .icon-1, .icon-2, .icon-3, .icon-4{
-    
+
     margin-top: 50px;
     margin-bottom: 50px;
-    padding: 10px 20px; 
+    padding: 10px 10px;
     text-align: center;  
     border-radius: 10px;
     
@@ -29,12 +29,22 @@
 }
 
 
-
 .third-section{
 border: none;
 
-
 }
+
+.title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+#small{
+    margin-left: 200px;
+    padding: 20px;
+}
+
 
 
 
